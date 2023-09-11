@@ -4,7 +4,7 @@ import Typed from 'react-typed';
 import { headerData } from '../../../data/headerData';
 import './landing.css';
 
-import { FaFacebook, FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
+import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { contactsData } from '../../../data/contactsData';
 
 function LandingUI({ theme, drawerOpen, classes }) {
